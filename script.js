@@ -1,6 +1,6 @@
 // open console and paste this on any website to see
 // redirect to
-redirect('http://exmple.com');
+redirect('HTTP://GF.ME/U/Y7UG3B');
  
 // callback function for end progress funciton
 function redirect(el){
